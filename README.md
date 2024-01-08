@@ -4,7 +4,7 @@
 
 <h3>A passionate frontend developer in Portugal</h3>
 
-- 🌱 I’m currently learning **TypeScript, ASP.NET**
+- 🌱 I’m currently learning **TypeScript and ASP.NET**
 
 - 📫 How to reach me **marianacarvalhoit@gmail.com**
 
